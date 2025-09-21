@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Moustapha Adebigni (RodGPTBuilder)
 
-🚀 AI Prompt Engineer • No-Code Workflow Architect • Automation Strategist  
+🚀 AI Prompt Engineer • full stack Ai engineer • Automation Strategist  
 🎯 I build fully autonomous AI systems using GPT-4o, Zapier, Notion, and more.  
 
 ---
