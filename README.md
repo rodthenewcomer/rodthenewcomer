@@ -11,7 +11,7 @@
 AI-powered insurance denial appeal generator. Automates professional appeal letters for denied medical claims using GPT-4, helping patients fight unfair denials.
 
 ### 📞 [Closer77](https://github.com/rodthenewcomer/closer77)
-AI receptionist for healthcare practices. Voice-first automation handling patient calls, scheduling, and inquiries—reducing admin burden while improving patient experience.
+AI receptionist for healthcare practices. Voice-first automation handling patient calls, scheduling, and inquiries reducing admin burden while improving patient experience.
 
 ### ⚽ [JacanaFly](https://github.com/rodthenewcomer/JacanaFly)
 Premium sports prediction service via Telegram. Expert analysis for NBA, football, and major sporting events, serving French-speaking markets in West Africa.
