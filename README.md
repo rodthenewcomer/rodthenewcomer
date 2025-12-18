@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rodrigue Adebigni
+# 👋 Hi, I'm Moustapha Adebigni
 
 🚀 **AI-First Entrepreneur** • **Healthcare Tech** • **Cross-Border Innovation**  
 💡 Building AI-powered solutions that solve real problems across US healthcare and African markets.
